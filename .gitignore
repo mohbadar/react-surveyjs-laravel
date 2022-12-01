@@ -1,0 +1,13 @@
+
+.DS_STORE
+
+/frontend/dist/
+/bazel-out
+/integration/bazel/bazel-*
+*.log
+/frontend/node_modules
+
+
+/node_modules
+/node-api/node_modules
+/package-lock.json
